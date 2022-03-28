@@ -1,4 +1,4 @@
-# #7DaysOfCode-01
+# #7DaysOfCode-02
 
 ## #7DaysOfCode - LógicaJS - Alura
 
